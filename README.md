@@ -13,3 +13,7 @@ Steps to set up :
 I have used react version 2.1.8, because of some issues, but latest version is preferable
  
 6. Run the command, npm run start on another terminal
+
+
+
+Note: The schema of some components is referred from Mahesh Sabnis and Rijil Daniel.
